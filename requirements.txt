@@ -1,0 +1,24 @@
+# Core
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+pydantic-settings
+
+# Document Processing
+docling
+
+# Metadata Extraction
+gliner2
+
+# Vector Store
+qdrant-client
+fastembed
+
+# OpenAI
+openai
+
+# Utilities
+python-dotenv
+loguru
+httpx
